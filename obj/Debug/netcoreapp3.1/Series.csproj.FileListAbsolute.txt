@@ -1,0 +1,13 @@
+D:\CURSOS\Digital Innovation One\MRV\Series\bin\Debug\netcoreapp3.1\Series.exe
+D:\CURSOS\Digital Innovation One\MRV\Series\bin\Debug\netcoreapp3.1\Series.deps.json
+D:\CURSOS\Digital Innovation One\MRV\Series\bin\Debug\netcoreapp3.1\Series.runtimeconfig.json
+D:\CURSOS\Digital Innovation One\MRV\Series\bin\Debug\netcoreapp3.1\Series.runtimeconfig.dev.json
+D:\CURSOS\Digital Innovation One\MRV\Series\bin\Debug\netcoreapp3.1\Series.dll
+D:\CURSOS\Digital Innovation One\MRV\Series\bin\Debug\netcoreapp3.1\Series.pdb
+D:\CURSOS\Digital Innovation One\MRV\Series\obj\Debug\netcoreapp3.1\Series.csprojAssemblyReference.cache
+D:\CURSOS\Digital Innovation One\MRV\Series\obj\Debug\netcoreapp3.1\Series.AssemblyInfoInputs.cache
+D:\CURSOS\Digital Innovation One\MRV\Series\obj\Debug\netcoreapp3.1\Series.AssemblyInfo.cs
+D:\CURSOS\Digital Innovation One\MRV\Series\obj\Debug\netcoreapp3.1\Series.csproj.CoreCompileInputs.cache
+D:\CURSOS\Digital Innovation One\MRV\Series\obj\Debug\netcoreapp3.1\Series.dll
+D:\CURSOS\Digital Innovation One\MRV\Series\obj\Debug\netcoreapp3.1\Series.pdb
+D:\CURSOS\Digital Innovation One\MRV\Series\obj\Debug\netcoreapp3.1\Series.genruntimeconfig.cache
